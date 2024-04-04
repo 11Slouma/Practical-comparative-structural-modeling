@@ -7,3 +7,5 @@ modeller : 10.5
 pymol : 2.3.0
 ```
 ## Database 
+- Uniprot(https://www.uniprot.org/)
+- Blast(https://blast.ncbi.nlm.nih.gov/Blast.cgi)
