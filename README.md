@@ -9,3 +9,19 @@ pymol : 2.3.0
 ## Database 
 - Uniprot(https://www.uniprot.org/)
 - Blast(https://blast.ncbi.nlm.nih.gov/Blast.cgi)
+## Method 
+- The first step is to set up my file with the 6 temlpate i've choosen which have the most identical percentage with my target sequence and placed them in the bin file of modeller directory where your workspace shoul look like this :
+```
+.
+├── template1.pdb
+├── template2.pdb
+├── template3.pdb
+├── template4.pdb
+├── template5.pdb
+├── template6.pdb
+├── align2d.py
+├── compare.py
+├── evaluate_model.py
+├── model_single.py
+└── P29957.ali
+```
