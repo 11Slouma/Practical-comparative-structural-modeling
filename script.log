@@ -1,0 +1,31 @@
+
+                         MODELLER 10.5, 2024/01/19, r12711
+
+     PROTEIN STRUCTURE MODELLING BY SATISFACTION OF SPATIAL RESTRAINTS
+
+
+                     Copyright(c) 1989-2024 Andrej Sali
+                            All Rights Reserved
+
+                             Written by A. Sali
+                               with help from
+              B. Webb, M.S. Madhusudhan, M-Y. Shen, G.Q. Dong,
+          M.A. Marti-Renom, N. Eswar, F. Alber, M. Topf, B. Oliva,
+             A. Fiser, R. Sanchez, B. Yerkovich, A. Badretdinov,
+                     F. Melo, J.P. Overington, E. Feyfant
+                 University of California, San Francisco, USA
+                    Rockefeller University, New York, USA
+                      Harvard University, Cambridge, USA
+                   Imperial Cancer Research Fund, London, UK
+              Birkbeck College, University of London, London, UK
+
+
+Kind, OS, HostName, Kernel, Processor: 4, Linux aymen-HP-ProBook-4520s 5.4.0-74-generic x86_64
+Date and time of compilation         : 2024/01/20 00:40:16
+MODELLER executable type             : x86_64-intel8
+Job starting time (YY/MM/DD HH:MM:SS): 2024/04/02 02:10:46
+
+environ____W> The class 'environ' is deprecated; use 'Environ' instead
+model______W> The class 'model' is deprecated; use 'Model' instead
+alignment__W> The class 'alignment' is deprecated; use 'Alignment' instead
+alignment__W> The class 'alignment' is deprecated; use 'Alignment' instead
