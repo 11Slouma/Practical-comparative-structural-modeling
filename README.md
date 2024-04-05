@@ -10,7 +10,7 @@ pymol : 2.3.0
 - Uniprot(https://www.uniprot.org/)
 - Blast(https://blast.ncbi.nlm.nih.gov/Blast.cgi)
 ## Method 
-- The first step is to set up my file with the 6 temlpate i've choosen which have the most identical percentage with my target sequence and placed them in the bin file of modeller directory where your workspace shoul look like this :
+- The first step is to set up my file with the 6 temlpate i've chosen which have the most identical percentage with my target sequence(i have choosen them from others species to avoid falling into variants ) and placed them in the bin file of modeller directory where your workspace shoul look like this :
 ```
 .
 ├── template1.pdb
@@ -25,3 +25,5 @@ pymol : 2.3.0
 ├── model_single.py
 └── P29957.ali
 ```
+## Script 
+- Start automated modelling using the `compare.py` to generate the `compare.log` file with the comparisons.
