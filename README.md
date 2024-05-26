@@ -72,7 +72,7 @@ P29957.B99990004.pdb          6878.17285   -56487.44531        0.92107
 P29957.B99990005.pdb          7610.35645   -56625.14453        0.92490
 ```
 ##Model evaluation
--Now I evaluated my model with the `evaluate_model. py` and create a plot with GNUPLOT using the generated `MYtemplate. profile` file 
+-Now I evaluated my model with the `evaluate_model. py` and create a plot with GNUPLOT using the generated `MYtemplate1. profile` file 
 Launch a new PyMol session and load the model, crystal, and template structures, then execute the following commands.
 ```shell
 select reference, 1AQM and name CA
