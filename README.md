@@ -81,8 +81,18 @@ align P29957.B99990004 , reference
 ```
 the output is the calculation of  RMSD
 ```
+ Match: read scoring matrix.
+ Match: assigning 1441 x 669 pairwise scores.
+ MatchAlign: aligning residues (1441 vs 669)...
+ MatchAlign: score 1114.000
+ ExecutiveAlign: 2998 atoms aligned.
+ ExecutiveRMS: 170 atoms rejected during cycle 1 (RMSD=19.85).
+ ExecutiveRMS: 258 atoms rejected during cycle 2 (RMSD=16.13).
+ ExecutiveRMS: 235 atoms rejected during cycle 3 (RMSD=11.99).
+ ExecutiveRMS: 213 atoms rejected during cycle 4 (RMSD=8.57).
+ ExecutiveRMS: 193 atoms rejected during cycle 5 (RMSD=5.15).
 RMSD =    2.122 (1929 to 1929 atoms)
 ```
-the model may not be relible due to my lack oof experience in this field and the difficulty of interpreting the results , i also have choosed the template from another organism evoiding confortation with variants ,there may be a more suitable model that could produce a better results 
+the model may not be reliable and precise for 100% due to my lack of experience in this field and the difficulty of interpreting the results , i also have choosed the template from another organism evoiding confortation with variants which can pivotate a bit the results ,there may be a more suitable model that could produce a better results 
 This model is a work on progress and can be improved with further research and more work and more experience
 ```
