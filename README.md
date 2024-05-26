@@ -76,8 +76,13 @@ P29957.B99990005.pdb          7610.35645   -56625.14453        0.92490
 Launch a new PyMol session and load the model, crystal, and template structures, then execute the following commands.
 ```shell
 select reference, 1AQM and name CA
-select mob_model, model and name CA
-align mob_model, reference
+select P29957.B99990004 , P29957.B99990004 and name CA
+align P29957.B99990004 , reference
 ```
 the output is the calculation of  RMSD
+```
+RMSD =    0.598 (322 to 322 atoms)
+```
+the model may not be relible due to my lack oof experience in this field and the difficulty of interpreting the results , i also have choosed the template from another organism evoiding confortation with variants ,there may be a more suitable model that could produce a better results 
+This model is a work on progress and can be improved with further research and work
 ```
