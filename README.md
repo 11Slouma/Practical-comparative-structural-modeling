@@ -81,8 +81,8 @@ align P29957.B99990004 , reference
 ```
 the output is the calculation of  RMSD
 ```
-RMSD =    0.598 (322 to 322 atoms)
+RMSD =    2.122 (1929 to 1929 atoms)
 ```
 the model may not be relible due to my lack oof experience in this field and the difficulty of interpreting the results , i also have choosed the template from another organism evoiding confortation with variants ,there may be a more suitable model that could produce a better results 
-This model is a work on progress and can be improved with further research and more work and experience
+This model is a work on progress and can be improved with further research and more work and more experience
 ```
