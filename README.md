@@ -84,5 +84,5 @@ the output is the calculation of  RMSD
 RMSD =    0.598 (322 to 322 atoms)
 ```
 the model may not be relible due to my lack oof experience in this field and the difficulty of interpreting the results , i also have choosed the template from another organism evoiding confortation with variants ,there may be a more suitable model that could produce a better results 
-This model is a work on progress and can be improved with further research and work
+This model is a work on progress and can be improved with further research and more work and experience
 ```
